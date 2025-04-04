@@ -16,6 +16,7 @@
 		990732A92D871E2A007151AB /* ToDoListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990732A82D871E2A007151AB /* ToDoListUITestsLaunchTests.swift */; };
 		990732B82D944C0B007151AB /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990732B72D944C0B007151AB /* Task.swift */; };
 		990732BA2D9E992B007151AB /* TaskViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990732B92D9E992B007151AB /* TaskViewModel.swift */; };
+		990732BC2D9FF091007151AB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 990732BB2D9FF091007151AB /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		990732A82D871E2A007151AB /* ToDoListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		990732B72D944C0B007151AB /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		990732B92D9E992B007151AB /* TaskViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewModel.swift; sourceTree = "<group>"; };
+		990732BB2D9FF091007151AB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				9907328B2D871E26007151AB /* ToDoListApp.swift */,
+				990732BB2D9FF091007151AB /* README.md */,
 				9907328D2D871E26007151AB /* ContentView.swift */,
 				990732B72D944C0B007151AB /* Task.swift */,
 				990732B92D9E992B007151AB /* TaskViewModel.swift */,
@@ -237,6 +240,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				990732BC2D9FF091007151AB /* README.md in Resources */,
 				990732932D871E29007151AB /* Preview Assets.xcassets in Resources */,
 				990732902D871E29007151AB /* Assets.xcassets in Resources */,
 			);
