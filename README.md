@@ -7,6 +7,7 @@ Add new tasks
 Tap to mark tasks as complete/incomplete
 Swipe to delete
 Tasks are saved even when the app is closed
+
 🚀 Tech Used
 Swift
 SwiftUI
